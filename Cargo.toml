@@ -1,0 +1,6 @@
+[package]
+name = "khala"
+version = "0.0.1"
+authors = [ "Logan McDonald <loganmcdona11@gmail.com>" ]
+
+[dependencies]
